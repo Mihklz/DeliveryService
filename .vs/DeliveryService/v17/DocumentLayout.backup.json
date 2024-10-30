@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2906257D-59B0-4997-8BE6-6482B12B6068}|DeliveryService.Tests\\DeliveryService.Tests.csproj|\\\\mac\\home\\desktop\\dtz\\deliveryservice\\deliveryservice.tests\\orderfiltertests..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906257D-59B0-4997-8BE6-6482B12B6068}|DeliveryService.Tests\\DeliveryService.Tests.csproj|\\\\mac\\home\\desktop\\dtz\\deliveryservice\\deliveryservice.tests\\csvreadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60447278-5C66-4DE9-AD1C-602B49E888B0}|DeliveryService\\DeliveryService.csproj|\\\\mac\\home\\desktop\\dtz\\deliveryservice\\deliveryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906257D-59B0-4997-8BE6-6482B12B6068}|DeliveryService.Tests\\DeliveryService.Tests.csproj|\\\\mac\\home\\desktop\\dtz\\deliveryservice\\deliveryservice.tests\\parametervalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60447278-5C66-4DE9-AD1C-602B49E888B0}|DeliveryService\\DeliveryService.csproj|\\\\mac\\home\\desktop\\dtz\\deliveryservice\\deliveryservice\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60447278-5C66-4DE9-AD1C-602B49E888B0}|DeliveryService\\DeliveryService.csproj|\\\\mac\\home\\desktop\\dtz\\deliveryservice\\deliveryservice\\filtered_orders.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParameterValidationTests.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService.Tests\\ParameterValidationTests.cs",
+              "RelativeDocumentMoniker": "DeliveryService.Tests\\ParameterValidationTests.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService.Tests\\ParameterValidationTests.cs",
+              "RelativeToolTip": "DeliveryService.Tests\\ParameterValidationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:05:09.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvReaderTests.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService.Tests\\CsvReaderTests.cs",
+              "RelativeDocumentMoniker": "DeliveryService.Tests\\CsvReaderTests.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService.Tests\\CsvReaderTests.cs",
+              "RelativeToolTip": "DeliveryService.Tests\\CsvReaderTests.cs",
+              "ViewState": "AgIAAAcAAADAMzMzM7MiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:59:54.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderFilterTests..cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService.Tests\\OrderFilterTests..cs",
+              "RelativeDocumentMoniker": "DeliveryService.Tests\\OrderFilterTests..cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService.Tests\\OrderFilterTests..cs",
+              "RelativeToolTip": "DeliveryService.Tests\\OrderFilterTests..cs",
+              "ViewState": "AgIAAAwAAADAZmZmZuYWwBoAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:22:22.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "filtered_orders.csv",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService\\filtered_orders.csv",
+              "RelativeDocumentMoniker": "DeliveryService\\filtered_orders.csv",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService\\filtered_orders.csv",
+              "RelativeToolTip": "DeliveryService\\filtered_orders.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-30T13:56:26.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log.txt",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService\\log.txt",
+              "RelativeDocumentMoniker": "DeliveryService\\log.txt",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService\\log.txt",
+              "RelativeToolTip": "DeliveryService\\log.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-30T08:07:44.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService\\Program.cs",
+              "RelativeDocumentMoniker": "DeliveryService\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\DTZ\\DeliveryService\\DeliveryService\\Program.cs",
+              "RelativeToolTip": "DeliveryService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:58:51.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

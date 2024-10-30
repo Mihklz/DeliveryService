@@ -1,0 +1,6 @@
+2024-10-30 11:00:01.969 +03:00 [INF] Начало работы приложения Delivery Service
+2024-10-30 11:00:02.013 +03:00 [ERR] Ошибка при чтении файла: Could not find a part of the path 'C:\Mac\Home\Desktop\DTZ\DeliveryService\DeliveryService\orders.csv'.
+2024-10-30 11:00:02.015 +03:00 [WRN] Заказы не были найдены.
+2024-10-30 11:00:28.945 +03:00 [INF] Начало работы приложения Delivery Service
+2024-10-30 11:00:29.072 +03:00 [ERR] Ошибка при чтении файла: Could not find a part of the path 'C:\Mac\Home\Desktop\DTZ\DeliveryService\DeliveryService\orders.csv'.
+2024-10-30 11:00:29.075 +03:00 [WRN] Заказы не были найдены.
